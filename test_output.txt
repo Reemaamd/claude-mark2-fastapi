@@ -1,0 +1,136 @@
+﻿Voici un exemple de rÃ©ponse en franÃ§ais, en suivant les rÃ¨gles et les exemples de structure fournis :
+
+# Audit SEO de Contenu
+## [URL]
+### Date : [Date]
+
+---
+
+## Score SantÃ© SEO : [X/100]
+
+---
+
+## Checklist SEO On-Page
+
+### Balise Titre
+- Statut : [Conforme/Ã AmÃ©liorer/Non Conforme]
+- Actuel : "[titre actuel]"
+- RecommandÃ© : "[titre amÃ©liorÃ©]"
+- ProblÃ¨mes : [liste des problÃ¨mes]
+
+### MÃ©ta Description
+- Statut : [Conforme/Ã AmÃ©liorer/Non Conforme]
+- Actuel : "[mÃ©ta actuelle]"
+- RecommandÃ© : "[mÃ©ta amÃ©liorÃ©e]"
+
+### HiÃ©rarchie des Titres
+[Analyse de la structure H1-H6]
+
+### Optimisation des Images
+[RÃ©sultats de l'audit alt text]
+
+### Liens Internes
+[Analyse des liens]
+
+### Structure d'URL
+[Ãvaluation de l'URL]
+
+---
+
+## QualitÃ© du Contenu (E-E-A-T)
+| Dimension | Score | Preuves |
+|---|---|---|
+| ExpÃ©rience | [Fort/PrÃ©sent/Faible/Absent] | [dÃ©tails] |
+| Expertise | [Fort/PrÃ©sent/Faible/Absent] | [dÃ©tails] |
+| AutoritÃ© | [Fort/PrÃ©sent/Faible/Absent] | [dÃ©tails] |
+| FiabilitÃ© | [Fort/PrÃ©sent/Faible/Absent] | [dÃ©tails] |
+
+---
+
+## Analyse des Mots-ClÃ©s
+- Mot-ClÃ© Principal : [mot-clÃ©]
+- Intention de Recherche : [type]
+- Placement du Mot-ClÃ© : [rÃ©sultats checklist]
+- Mots-ClÃ©s Secondaires : [liste]
+
+---
+
+## SEO Technique
+[RÃ©sultats de la vÃ©rification rapide]
+
+---
+
+## Analyse des Lacunes de Contenu
+[Tableau des sujets manquants]
+
+---
+
+## OpportunitÃ©s Featured Snippets
+[OpportunitÃ©s spÃ©cifiques]
+
+---
+
+## Balisage Schema
+[Actuel vs recommandÃ©]
+
+---
+
+## OpportunitÃ©s de Liens Internes
+[Recommandations spÃ©cifiques]
+
+---
+
+## Core Web Vitals
+[Ãvaluation de la performance avec impact CA]
+
+---
+
+## Recommandations de StratÃ©gie de Contenu
+[Plan de publication, prioritÃ©s de contenu]
+
+---
+
+## Recommandations PriorisÃ©es
+
+### Critique (Corriger ImmÃ©diatement)
+1. [recommandation avec impact attendu]
+
+### Haute PrioritÃ© (Ce Mois-ci)
+1. [recommandation]
+
+### PrioritÃ© Moyenne (Ce Trimestre)
+1. [recommandation]
+
+### Faible PrioritÃ© (Quand les Ressources le Permettent)
+1. [recommandation]
+
+---
+
+DonnÃ©es extraites Ã  partir de l'audit :
+
+* URL : https://example.com
+* Statut : SuccÃ¨s
+* Analyse :
+	+ SEO : Titre et meta-description non optimisÃ©s
+	+ Contenu : Faible volume de mots-clÃ©s et lacunes de contenu
+	+ Conversion : Lien CTA non optimisÃ©
+	+ Confiance : Pas de liens sociaux et de contenu de qualitÃ©
+	+ Tracking : Pas de outils de dÃ©tection et de schema
+	+ Technique : Structure d'URL non optimisÃ©e
+* Scores :
+	+ SEO : 6/10
+	+ CTA : 5/10
+	+ Confiance : 5/10
+	+ Tracking : 3/10
+* Score global : 4,8/10
+
+Recommandations :
+
+* Optimiser le titre et la meta-description
+* Ajouter du contenu de qualitÃ© et des mots-clÃ©s
+* Optimiser le lien CTA
+* Ajouter des liens sociaux et du contenu de qualitÃ©
+* Utiliser des outils de dÃ©tection et de schema
+* Optimiser la structure d'URL
+
+Note : Les scores et les recommandations sont fictifs et servent uniquement Ã  illustrer l'exemple.

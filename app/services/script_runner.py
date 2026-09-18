@@ -106,16 +106,20 @@ SKILL_CONFIG = {
 
 
     # Génération PDF
+       # market-report-pdf : traité comme un skill texte normal,
+    # utilise analyze_page.py comme market-seo/market-audit
     "market-report-pdf": {
-        "script": "generate_pdf_report.py",
-        "timeout": 120,
-        "type": "file"
+        "script": "analyze_page.py",
+        "timeout": 60,
+        "type": "url"
     },
 
 
     # Reports
     "market-report": {
-       "script": None
+        "script": "analyze_page.py",
+        "timeout": 60,
+        "type": "url"
     },
 
 

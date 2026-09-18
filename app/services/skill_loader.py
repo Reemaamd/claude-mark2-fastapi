@@ -1,11 +1,23 @@
 import os
 from app.config.settings import settings
 
+# Skills dont le SKILL.md original pousse le LLM local à halluciner du code
+# (parce qu'il mentionne bash/JSON/scripts) -> on utilise un prompt de remplacement plus simple
+COMPACT_SKILLS = ["market-report-pdf"]
+
+
 def load_skill_prompt(skill_name: str) -> str:
     """
     Charge le contenu du fichier SKILL.md pour un skill donné.
-    skill_name ex: 'market-copy', 'market-audit'
+    Utilise une version compacte si elle existe pour ce skill,
+    sinon charge le SKILL.md original.
     """
+    if skill_name in COMPACT_SKILLS:
+        compact_path = os.path.join(settings.BASE_DIR, "skills_compact", f"{skill_name}.md")
+        if os.path.exists(compact_path):
+            with open(compact_path, "r", encoding="utf-8") as f:
+                return f.read()
+
     skill_path = os.path.join(settings.SKILLS_DIR, skill_name, "SKILL.md")
 
     if not os.path.exists(skill_path):
